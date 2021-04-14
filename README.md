@@ -1,5 +1,5 @@
 # netflix_data_analysis
-Manipulating and visualizing movie and TV data with Python
+DataCamp Project: Manipulating and visualizing movie and TV data with Python
 
 Discover if Netflix’s movies are getting shorter over time, using everything from lists and loops to pandas and matplotlib.
 
